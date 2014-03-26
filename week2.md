@@ -1,7 +1,8 @@
 Chapter4
 
 Handing defect is an important part of the normal execution of various QA activities. And the most important activity associated with defect handling is defect resolution. In the case that a discovered defect is not corrected, all the parties involved must agree on the specific decisions or actions. To support defect resolution, defect logging and defect tracking are needed. In addition, to ensure proper collection and usage of defect data, we need to pay special attention to consistent defect interpretation and tracking as well as timely defect reporting.
-	As a central part of QA activities, testing is an integral part of the waterfall development process, forming an important link in the overall development chain. Because of the possibilities of defect propagations and the increasing cost over time or successive development phases to fix defects once they are injected into the system, we need to reduce the number of faults in software systems by the combination of defect prevention and application of QA techniques that can help remove software faults early.
+
+As a central part of QA activities, testing is an integral part of the waterfall development process, forming an important link in the overall development chain. Because of the possibilities of defect propagations and the increasing cost over time or successive development phases to fix defects once they are injected into the system, we need to reduce the number of faults in software systems by the combination of defect prevention and application of QA techniques that can help remove software faults early.
 	The related QA activities to ensure that the right functions are performed are typically grouped as validation activities. They check whether a function needed and expected by the customers is present in a software product. Activities to ensure the correct or reliable performance of these specified functions are grouped as verification activities. 
 
 Chapter5
