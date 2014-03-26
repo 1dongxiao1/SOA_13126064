@@ -18,6 +18,9 @@ Why testing? Testing fulfills two primary purpose: to demonstrate quality or pro
 
 What to test? The main difference between functional and structural testing is the perspective and the related focus: Functional testing focus on the external behavior of a software system or its various components, while structural testing focus on the internal implementation. Functional testing is also called black box testing, whose simplest form is to start running the software and make observations. And another common form of BBT is the use of specification checklists.
 
+The key question that distinguishes black-box testing (BBT) from white-box testing(WBT) is the “perspective” question: BBT views the objects of testing as a black-box while focusing on testing the input-output relations or external functional behavior; while WBT views the objects as a glass-box where internal implementation details are visible and tested. They can also be compared by the following aspects, such as objects, timeline, defect focus, defect section and fixing, techniques, and tester.
+
+
 
 
 
