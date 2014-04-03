@@ -20,6 +20,11 @@ What to test? The main difference between functional and structural testing is t
 
 The key question that distinguishes black-box testing (BBT) from white-box testing(WBT) is the “perspective” question: BBT views the objects of testing as a black-box while focusing on testing the input-output relations or external functional behavior; while WBT views the objects as a glass-box where internal implementation details are visible and tested. They can also be compared by the following aspects, such as objects, timeline, defect focus, defect section and fixing, techniques, and tester.
 
+黄明恩 A
+邱芳 A
+刘苗 A
+冯祥敏 A
+付华 A
 
 
 
