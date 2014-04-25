@@ -1,7 +1,20 @@
-Testing vs defect prevention.   
+Testing vs Defect prevention. 
+
 Object: code vs implementation.    
 Development activity/phase: testing phase and after vs implementation.      
 Expertise level: low-high vs medium-high.      
 Observation: failures vs errors & error sources.     
 Problem types: dynamic failures & related faults vs systematic errors or conceptual mistakes.      
-Result interpretation: moderate vs intangible. Cost: medium(low-high) vs low.
+Result interpretation: moderate vs intangible.       
+Cost: medium(low-high) vs low.
+
+
+Testing vs Inspection.   
+
+Object: code vs design,code and other software artifacts.    
+Development activity/phase: testing phase and after vs all.     
+Expertise level: low-high vs low-medium.      
+Observation: failures vs faults.      
+Problem types: dynamic failures & related faults vs static & localized faults.      
+Result interpretation: moderate vs easy.        
+Cost: medium(low-high) vs low-medium.
