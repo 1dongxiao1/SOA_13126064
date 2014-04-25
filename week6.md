@@ -38,7 +38,7 @@ Problem types: dynamic failures & related faults vs operational failures in smal
 Result interpretation: moderate vs hard.         
 Cost: medium(low-high) vs high.
 
-·Testing vs failure containment. 
+·Testing vs Failure containment. 
 
 Object: code vs system with potential accidents.         
 Development activity/phase: testing phase and after vs in-field operation.          
